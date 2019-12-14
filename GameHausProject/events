@@ -1,0 +1,4 @@
+class GDemoPage extends StatefulWidget {
+  static const String routeName = "/demo";
+
+  GDemoPage({Key key, this.title, this.currentUserId}) : super(key: key);

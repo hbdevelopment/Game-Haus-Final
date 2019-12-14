@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "465545615636",
+    "firebase_url": "https://gamehausfirebase.firebaseio.com",
+    "project_id": "gamehausfirebase",
+    "storage_bucket": "gamehausfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465545615636:android:0a171394e0384dd7d2ca01",
+        "android_client_info": {
+          "package_name": "com.example.ghfrontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465545615636-ddho2c3cq7lft0a19mrt7dhbh1v9f0og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB29n0UCEtV0PDo5TejrfvVmF9kg5GtERg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465545615636-ddho2c3cq7lft0a19mrt7dhbh1v9f0og.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465545615636-02kb8gvtchhqg6luc8m53fmu4vqaeblr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ghfrontend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
